@@ -30,7 +30,7 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/shakti177/uomo-ecommerce-website-reactjs.git
+$ https://github.com/MeAkash77/React-ecommerce-website.git
 
 # Go into the repository
 $ cd uomo-ecommerce-website-reactjs
