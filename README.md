@@ -1,7 +1,7 @@
 # UOMO E-commerce Website Using ReactJS
 
 ## 📌 Live Demo
-https://uomo-ecommerce-website.netlify.app/
+https://akash77-react-ecommerce.netlify.app/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fec4a869-298c-4e9c-8df6-cb6f132f7bd8/deploy-status)](https://app.netlify.com/sites/uomo-ecommerce-website/deploys)
 
